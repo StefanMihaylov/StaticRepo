@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "kid": "Test_BR",
+      "kid": "experian.com",
       "kty": "RSA",
       "e": "AQAB",
       "use": "sig",
